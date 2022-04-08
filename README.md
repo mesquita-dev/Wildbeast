@@ -23,15 +23,9 @@ Check out the website below.
 ## 🖥️ A little demonstration of Bikcraft
 
 
-[![Screenshot_3](https://user-images.githubusercontent.com/91436176/159788108-aeac5b2e-4518-41c7-9353-fc5fd445f0cc.png "Clique para acessar o projeto")](https://mesquita-dev.github.io/Wildbeast/ "Clique para acessar o projeto")
+[![Screenshot_1](https://user-images.githubusercontent.com/91436176/162543620-cc68c2d9-922e-4189-a26a-289467e5d195.png)](https://mesquita-dev.github.io/Wildbeast/ "Clique para acessar o projeto")
   
 You can view more and access the project with clicking [here](https://mesquita-dev.github.io/Wildbeast/).
-
----
-
-## 🔖 Layout
-The **wireframe** and the **design** from this project (**Bikcraft**) were developed in **Figma**. You can view all of **UI/UX Design** were using knowledge:  **Tipography**, **Colors**, **Space** and others. Click in this link for follow in Figma: 
-- **[Bikcraft Design](https://www.figma.com/file/82ve5R4zbWl63GhnxT6GvU/Bikcraft?node-id=5%3A2)**
 
 ---
 
