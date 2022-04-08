@@ -1,5 +1,6 @@
 
-<img src="https://user-images.githubusercontent.com/91436176/162544142-e95ad437-5693-4942-b3ff-af1049870232.jpg" width="1200" height="400">
+![bg2](https://user-images.githubusercontent.com/91436176/162544929-93a9cf09-9328-4b27-abce-a16a82d17450.png)
+
 
 ## 📖 About   
 
