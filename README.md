@@ -1,6 +1,5 @@
-<h1 align="center">
-  🐺 Wildbeast 🐺
-</h1>
+
+<img src="https://user-images.githubusercontent.com/91436176/162544142-e95ad437-5693-4942-b3ff-af1049870232.jpg" width="1200" height="400">
 
 ## 📖 About   
 
